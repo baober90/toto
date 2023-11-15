@@ -2,7 +2,8 @@ rockspec_format = "3.0"
 package = "toto"
 version = "1.0.0-1"
 source = {
-   url = "git+https://github.com/baober90/toto.git"
+   url = "git+https://github.com/baober90/toto.git",
+   tag = "v1.0.0"
 }
 description = {
    homepage = "https://github.com/baober90/toto",
